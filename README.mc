@@ -1,6 +1,3 @@
-## Biological Scale Neural Networks [![Build Status](https://travis-ci.com/unconst/MACH.svg?branch=master)](https://travis-ci.com/unconst/MACH)
-### Sequential Distillation models.
-
 ```
 ███████╗ ██████╗ ██████╗     █████╗ ██╗
 ██╔════╝██╔═══██╗██╔══██╗   ██╔══██╗██║
